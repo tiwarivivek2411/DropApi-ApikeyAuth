@@ -1,0 +1,9 @@
+couture/Authenticator.class
+couture/DropApiConfiguration.class
+couture/Brand.class
+couture/AuthenticateFilter.class
+couture/DropApiApplication.class
+couture/AuthDB.class
+couture/BrandRepository.class
+couture/BrandResource.class
+couture/ApplicationHealthCheck.class

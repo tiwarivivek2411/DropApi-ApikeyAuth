@@ -1,0 +1,10 @@
+/home/nil/couture/dropapikey/dropApi/src/main/java/couture/AuthDB.java
+/home/nil/couture/dropapikey/dropApi/src/main/java/couture/DropApiApplication.java
+/home/nil/couture/dropapikey/dropApi/src/main/java/couture/Authenticator.java
+/home/nil/couture/dropapikey/dropApi/src/main/java/couture/ApplicationHealthCheck.java
+/home/nil/couture/dropapikey/dropApi/src/main/java/couture/DropApiConfiguration.java
+/home/nil/couture/dropapikey/dropApi/src/main/java/couture/Brand.java
+/home/nil/couture/dropapikey/dropApi/src/main/java/couture/BrandRepository.java
+/home/nil/couture/dropapikey/dropApi/src/main/java/couture/AuthenticateFilter.java
+/home/nil/couture/dropapikey/dropApi/src/main/java/couture/ApiKeyAuthenticator.java
+/home/nil/couture/dropapikey/dropApi/src/main/java/couture/BrandResource.java
